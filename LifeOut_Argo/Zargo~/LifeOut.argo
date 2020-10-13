@@ -1,0 +1,43 @@
+<argo version="6">
+  <documentation>
+    <authorname></authorname>
+    <authoremail></authoremail>
+    <version>0.34</version>
+    <description>
+      
+    </description>
+  </documentation>
+  <settings>
+    <notationlanguage>UML 1.4</notationlanguage>
+    <showboldnames>false</showboldnames>
+    <useguillemots>false</useguillemots>
+    <showassociationnames>true</showassociationnames>
+    <showvisibility>false</showvisibility>
+    <showmultiplicity>false</showmultiplicity>
+    <showinitialvalue>false</showinitialvalue>
+    <showproperties>false</showproperties>
+    <showtypes>true</showtypes>
+    <showstereotypes>false</showstereotypes>
+    <showsingularmultiplicities>true</showsingularmultiplicities>
+    <defaultshadowwidth>1</defaultshadowwidth>
+    <hidebidirectionalarrows>true</hidebidirectionalarrows>    
+    <fontname>Dialog</fontname>
+    <fontsize>12</fontsize>
+    <defaultstereotypeview>0</defaultstereotypeview>
+    <activediagram>LifeOut Projeto Uber</activediagram>
+  </settings>
+  <searchpath href="PROJECT_DIR" />
+  <members>
+    <member type="profile"
+            name="LifeOut_profile.profile" />
+    <member type="xmi"
+            name="LifeOut.xmi" />
+    <member type="pgml"
+            name="LifeOut_LifeOutProjetoUber.pgml"
+            diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
+            diagramname="LifeOut Projeto Uber" />
+    <member type="todo"
+            name="LifeOut.todo" />
+  </members>
+  <historyfile name="" />
+</argo>

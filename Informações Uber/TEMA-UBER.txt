@@ -1,0 +1,51 @@
+TEMA: UBER
+
+O QUE TEREMOS QUE FAZER?
+
+O desafio é desenvolver o modelo de negócio completo através de BPM/N utilizando o software o BIZAGI.
+Para tanto, é necessária pesquisa do negócio em análise, bem como, a declaração do modelo de negócio e do modelo de geração de receita.
+
+Na parte de Engenharia de Requisitos deverão ser elicitados (DE FORMA TRADICIONAL) os requisitos
+funcionais, a partir do que se sabe sobre o negócio em seu portal digital, bem como as regras de negócios -
+RNs e a construção dos artefatos contendo o diagrama geral de caso de uso da aplicação analisada.
+
+Ao final, o projeto será considerado concluído se estiver modelado consistentemente a luz de seu processo
+geral de negócio e seu mapeamento, bem como devidamente elicitadas quanto aos requisitos funcionais,
+as regras de negócios e diagrama geral de caso de uso, todos devidamente documentados e elaborados
+com o Argo Uml. 
+
+Entender um negócio digital de forma plena
+ Analisar um negócio digital
+ Modelar um negócio usando a notação BPM/N
+ Elicitar requisitos funcionais
+ Elaborar e entender as restrições impostas nas regras de negócios
+ Modelar o diagrama de casos de uso geral usando UML
+ Apresentar os produtos de Análise de Negócios e Requisitos devidamente documentados e
+consistentes.
+ Entregar e realizar a apresentação para o professor desses artefatos usando recursos
+audiovisuais. 
+
+
+ETAPAS:
+
+1ª Pesquisar sobre a Uber (o négocio), e o modelo de negócios, além de como gera receita;
+2ª Pesquisar sobre os Requisitos Funcionais e Não Funcionais do negócio;
+3ª Pesquisar sobre as Restrições Impostas nas regras de negócios, um exemplo é que eles aceitam apenas cartão ou dinheiro como forma de pagamento;
+4ª Criar um negócio melhor com as informações obtidas, o mesmo setor, mas com características diferentes/ novas (para ser diferente);
+5ª Documentar os produtos de Análise de Negócios e Requisitos; 
+5ª Modelar o negócio criado usando notação BPM/N;
+6ª Modelar o diagrama de casos de uso geral usando UML;
+7ª Entregar e realizar a apresentação para o professosr desses artefatos.
+
+
+
+O QUE TERÃO DE NOVOS EM NOVO NEGÓCIO (Ou seria interessante ter)?
+
+Botão de Acionamento de Polícia, Ambulância ou Bombeiro;
+Botão de Acionamento para gravar quando ter uma ameaça emergente;
+Conseguir alugar carros com empresas parcerias dentro do aplicativo;
+Catálogo e localização de eventos com locais/ empresas parceiras que estará acontecendo na região (fazendo com que as pessoas saem mais);
+Os motoristas serem obrigados a possuírem camerâ para ver qualquer acidente de trânsito;
+Carros específicos para festas/ eventos/ casamentos/ bailes de gala, entre outros que sejam chiques;
+Motocicletas específicas para lugares e regiões pertos, com preços mais baratos do que carros, entretanto precisando ter segurança.
+

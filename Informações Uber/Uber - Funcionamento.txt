@@ -1,0 +1,86 @@
+COMO UBER FUNCIONA?
+
+Para usuário:
+
+1ª O usuário precisa baixar o aplicativo em uma das lojas que está presente;
+3ª Criar conta e adicionar: E-mail, nome, celular, senha e aceitar Termos de Uso e Termos e Condições e a Declaração de Privacidade;
+4ª Esperar o recebimento do Sms com o código de confirmação;
+5ª Usar o código;
+6ª Inserir meio de pagamento;
+7ª Receber o e-mail para confirmar registro.
+
+
+Funções que os usuários possuem:
+
+Editar o seu perfil, adicionando fotos, definindo sua senha e atualizando dados pessoais. Outra função do app fica na aba Pagamento, onde você pode determinar o método de pagamento das suas viagens (podendo alterar para cada viagem que fazer - cadastrando diversos métodos de pagamento, como: cartão de crédito, débito, Uber Pré-Pago ou PayPal, e optando pelo que mais lhe agrada na hora de pedir seu Uber, entretanto, caso opte pelo pagamento em dinheiro, você precisará informar o seu CPF no momento de cadastro.), ver seus créditos e inserir códigos promocionais. 
+
+Na aba 'Configurações', poderá salvar locais como “casa” e “trabalho” e editá-los quando necessário e na aba 'Ajuda', é possível relatar problemas com suas viagens anteriores, pedir revisão do valor e ler dicas de como usar o app. Na aba 'Viagens' com desconto, você tem acesso a um link que gera descontos assim que novos amigos utilizarem a Uber. Compartilhe seu código promocional ou use o de um(a) amiga(o) para garantir descontos para vocês dois. 
+
+
+Para motorista parceiro:
+
+1ª Realizar seu cadastro pelo aplicativo de parceiro ou pelo site. Os requisitos para se tornar um motorista parceiro variam de cidade a cidade, precisando ver os requisitos da cidade no site oficial da Uber;
+2ª Em geral, você vai precisar nos enviar os seguintes documentos:
+
+Uma foto de sua Carteira Nacional de Habilitação (CNH), com a observação “Exerce atividade remunerada – EAR”. Veja em nosso site como obter em sua cidade. Importante notar que a Permissão Para Dirigir (PPD) não é aceita, apenas a CNH permanente.
+Uma foto do certificado de registro e licenciamento de veículo (CRLV) que será utilizado durante as viagens com a Uber. Caso você não possua um veículo próprio, você poderá alugar um carro com desconto em uma de nossas locadoras parceiras.
+Uma foto para o perfil. Este retrato precisará ser feito de frente com enquadramento centralizado, mostrando todo o rosto e os ombros, sem óculos escuros. A imagem deve mostrar apenas o motorista parceiro, sem nenhuma outra pessoa no enquadramento, e precisa ser bem iluminada, com foco e boa resolução. Nesta etapa, não é permitido utilizar uma foto da CNH ou de outra fotografia impressa.
+
+3ª A Uber vai, então, checar os dados informados para avaliar sua elegibilidade na plataforma através de uma checagem de antecedentes criminais realizada por empresa especializada que, a partir dos documentos fornecidos para cadastramento na plataforma, consulta informações de diversos bancos de dados oficiais e públicos de todo o País. Uma vez aprovado, você poderá passar para o passo seguinte;
+
+4ª Depois de realizar os passos acima e estar com sua CNH com a EAR em mãos, entre no site partners.uber.com para completar seu cadastro. Para saber se a Uber já está presente em sua cidade, verifique em nosso site ou entre em contato com através do help.uber.com para descobrir como se inscrever no Uber e como cadastrar seu veículo em nossa plataforma;
+
+5ª Em geral, os motoristas do uberX precisarão de um veículo com no máximo 10 anos de fabricação ou conforme regulamentação do município, com 4 portas e 5 lugares e ar-condicionado, porém os requisitos variam por cidade. Não são aceitos carros adesivados, com placa vermelha, pick-ups, vans e caminhonetes. A Uber não abre exceções nestes requisitos;
+
+6ª Uma vez que seu cadastro tiver sido concluído e você estiver ativo na plataforma, você fará o download do app de motorista parceiro e pode ficar online sempre que desejar aceitar viagens. Quando não estiver disponível, basta ficar offline no aplicativo.
+
+OBSERVAÇÃO: Poderá realizar seu cadastro quando desejar, mas só ficará ativo na plataforma quando cumprir com os requisitos e quando tiver adicionado a observação EAR à sua habilitação.	
+
+
+
+
+Tipos de veículos:
+
+UberPOOL, uberX, UberBLACK e UberSELECT. ( Vale notar que algumas categorias estão disponíveis apenas em algumas cidades.)
+
+Solicitar carro:
+
+1ª Informar endereço local e endereço de destino;
+2ª Escolher o tipo de carro;
+3ª Confirmar dados colocados e escolhidos, esperar para verificar o preço calculado e aceitar;
+4ª Enviar para motoristas próximos o pedido, o primeiro aceitar será enviado para o endereço local;
+5ª Receber dados do motorista como Carro, cor, placa, avaliações, comentários e rosto (foto);
+6ª Vizualizar tempo de chegada do motorista, podendo cancelar a viagem (para ambos - tendo que pagar uma taxa por cancelamento da corrida);
+7ª O motorista chega no local, espera o tempo determinado de espera para encontrar com o solicitante, quando este entrar no carro, o motorista clica em 'começar viagem' e descobre para onde deverá levar o indivíduo.
+
+Finalizar viagem:
+
+1ª O motorista chegará ao local, o aplicativo permitirá o mesmo 'terminar a corrida', clicando no botão, a corrida será finalizada e descontada do cartão cadastrado do usuário o preço da viagem;
+2ª Uma janela de avaliação para ambos os celulares aparecerão, podendo dar 'estrelas', comentar, ou selecionar opções pré-definidas como 'Ótimo motorista', entre outras;
+3ª Um e-mail será enviado para o celular de ambos sobre a viagem feita, e o preço que ficou, entre outras informações.
+
+Obs: Os dois podem conversar por bate-papo durante o caminho de encontro, para facilitar a identificação de ambos e não sofrerem com taxas adicionais de atraso.
+
+Tipos de perfis de usuário:
+
+
+. Perfil 'singular' - é o comum, aquele que é usado quando você cria uma conta no aplicativo;
+
+. Perfil Familiar - você paga viagens de um grupo de pessoas pré-determinado (ou que eles paguem sua viagem) e que você receba notificações e acompanhe o trajeto delas sempre que usarem a plataforma;
+
+. Perfil Trabalho - você consegue separar seus recibos entre os pessoais e os profissionais e encaminhar esses para um outro e-mail, por exemplo. 
+
+(O Perfil Familiar, assim como o Perfil Trabalho, pode ser editado na aba Configurações.)
+
+
+
+Fatos importantes:
+
+1. Usuários que se atrassam para chegar ao local de encontro com até 2 minutos, são 'punidos' cobrando deles um preço 'maior' do que o previsto. O programa avisa quando a taxa de tempo de espera entra em vigor - cobrança que só termina quando o passageiro entra no veículo. A “punição” não é válida para aeroportos e locais de eventos e não se aplica a viagens do tipo uberPOOL (partilhada com outros passageiros e, por isso, mais econômica);
+
+2. Se o usuário chama um veículo e cancela quando o motorista já está a caminho, ele pode pagar sem sequer entrar no carro. Isso acontece porque há uma taxa de cancelamento, cobrada se a desistência ocorrer depois de cinco minutos da solicitação ou quando o condutor cancela a corrida depois de esperar pelo passageiro por mais de cinco minutos no ponto indicado no app. No caso de viagens do tipo uberPOOL, o usuário desembolsa alguns reais se suspender o pedido aceito por um condutor a qualquer momento. O atraso máximo permitido é de somente dois minutos.
+(“Taxas de cancelamento são cobradas para compensar o tempo que os motoristas investiram para se deslocar até o local de partida do usuário”, explica a empresa. No entanto, se alguém se sentir injustiçado pela cobrança da tarifa (em casos em que o motorista demora muito, erra o caminho, passa direto, por exemplo), pode entrar em contato com a aplicação e recorrer a um reembolso. A situação é avaliada e caso a solicitação seja aprovada, o valor da corrida cancelada aparecerá como 0 na aplicação.)
+
+3ª Em algumas cidades é possível dar gorjetas (adicionais para o motorista), exemplo: Belo Horizonte, Campo Grande, Cuiabá, Londrina, Maringá, Natal, São José dos Campos e Vitória.
+
+4ª 'Configurações', você pode salvar locais como “casa” e “trabalho” e editá-los quando necessário. Na aba 'Ajuda', é possível relatar problemas com suas viagens anteriores, pedir revisão do valor e ler dicas de como usar o ap, na aba 'Viagens' com desconto, você tem acesso a um link que gera descontos assim que novos amigos utilizarem a Uber. Compartilhe seu código promocional ou use o de um(a) amiga(o) para garantir descontos para vocês dois. 
